@@ -26,6 +26,7 @@ Nous optons pour le sous-groupe 4
 * Guinée
 * Ghana
 * Libéria
+
 Pour tous ces pays le taux de dépendance à l'importation est élevé et inversement le taux d'autosuffisance est faible.
 Les pays ayants les plus faibles disponibilités alors qu'ils sont très dépendants à l'importation pourraient correspondre tout à fait à notre besoin.
 Cette liste sera affinée avec les équipes métiers.
